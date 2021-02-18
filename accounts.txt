@@ -1,0 +1,7 @@
+Acct  Last Name       First Name    Balance
+3     Samantha        Jay             50.00
+4     masake          Caleb          100.00
+20    Depp            John          1000.00
+30    Ipupa           Fally         3000.00
+57    Elon            Musk            90.00
+99    Jurgen          Klop            20.00
